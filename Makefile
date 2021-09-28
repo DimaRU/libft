@@ -45,7 +45,10 @@ SRC =	$(SRCDIR)/ft_toupper.c \
 		$(SRCDIR)/ft_strrchr.c \
 		$(SRCDIR)/ft_strtrim.c \
 		$(SRCDIR)/ft_substr.c \
-		$(SRCDIR)/ft_tolower.c
+		$(SRCDIR)/ft_tolower.c \
+		$(SRCDIR)/ft_strcat.c \
+		$(SRCDIR)/ft_strcpy.c \
+		$(SRCDIR)/ft_strncpy.c
 
 SRCB =	$(SRCDIR)/ft_lstadd_back.c \
 		$(SRCDIR)/ft_lstadd_front.c \
